@@ -1,6 +1,6 @@
 # vuejs
 
-> Akram is using vuejs finally hooooo
+> Vuejs App
 
 ## Build Setup
 
